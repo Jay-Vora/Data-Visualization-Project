@@ -3,7 +3,7 @@
 ### Human-Wildlife Coexistence Incidents in Parks Canada
 This project analyzes a dataset of human-wildlife coexistence incidents managed by Parks Canada. The dataset contains detailed records of incidents reported between 2010 and 2021 in various national parks and historic sites across Canada.
 
-##Motivation
+### Motivation
 The motivation behind this project was to understand the most common types of human-wildlife coexistence incidents reported in national parks and historic sites in Canada. Additionally, we wanted to analyze how the number of incidents has changed over time, identify which sites have the highest number of incidents, and determine if there are any seasonal or geographic trends in the occurrence of these incidents.
 
 ### Questions Answered
